@@ -1,0 +1,6 @@
+{
+  "name": "Accounting Ledger",
+  "description": "Multi-company, multi-financial year accounting application with inventory management, double-entry vouchers, party ledgers, and real-time reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

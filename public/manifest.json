@@ -1,0 +1,24 @@
+{
+  "name": "Accounting Ledger",
+  "short_name": "Ledger",
+  "description": "Multi-company, multi-financial year accounting application with inventory management, double-entry vouchers, party ledgers, and real-time reports.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#4f46e5",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
